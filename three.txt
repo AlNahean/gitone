@@ -1,4 +1,5 @@
 three 
 my 3
 added line on local
+new added line on remote
 testing git fetch
